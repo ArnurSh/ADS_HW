@@ -62,7 +62,7 @@ public class Ass1 {
         } else if (n == 1) {
             return 1;  // F1 = 1
         } else {
-            return fibonacci(n - 1) + fibonacci(n - 2);  // Fn = Fn-1 + Fn-2
+            return fibonacci(n - 1) + fibonacci(n - 2);
         }
     }
      */
